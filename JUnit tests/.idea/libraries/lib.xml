@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JSFKalkulacka/JSFKalkulacka/build/web/WEB-INF/lib/selenium-server-standalone-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSFKalkulacka/JSFKalkulacka/build/web/WEB-INF/lib/client-combined-3.141.59-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSFKalkulacka/JSFKalkulacka/build/web/WEB-INF/lib/client-combined-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

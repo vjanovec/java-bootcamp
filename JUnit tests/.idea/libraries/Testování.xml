@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Testování">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MVCKalkulacka.zip!/" />
+      <root url="jar://$PROJECT_DIR$/kalkulacka_selenium.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JSFKalkulacka.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

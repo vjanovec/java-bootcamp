@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSFKalkulacka/JSFKalkulacka/src/JSFKalkulacka.iml" filepath="$PROJECT_DIR$/JSFKalkulacka/JSFKalkulacka/src/JSFKalkulacka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSFKalkulacka/JSFKalkulacka/JSFKalkulacka1.iml" filepath="$PROJECT_DIR$/JSFKalkulacka/JSFKalkulacka/JSFKalkulacka1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Testování.iml" filepath="$PROJECT_DIR$/.idea/Testování.iml" />
+    </modules>
+  </component>
+</project>
