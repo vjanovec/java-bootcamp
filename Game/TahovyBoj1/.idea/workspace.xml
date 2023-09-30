@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4a8ba3b-0470-4455-8fe2-14c63ce318ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UD1yBiVx37owNiA0ayg7819jJl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TahovyBoj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.tahovyboj.TahovyBoj" />
+      <module name="TahovyBoj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.tahovyboj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TahovyBoj" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a8ba3b-0470-4455-8fe2-14c63ce318ab" name="Default Changelist" comment="" />
+      <created>1574876603299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574876603299</updated>
+      <workItem from="1574876606101" duration="7858000" />
+      <workItem from="1575307633235" duration="5006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1575313432998">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1575313432998" />
+    <state width="740" height="212" key="GridCell.Tab.0.bottom" timestamp="1575316456466">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="212" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1575316456466" />
+    <state width="740" height="212" key="GridCell.Tab.0.center" timestamp="1575316456466">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="212" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1575316456466" />
+    <state width="740" height="212" key="GridCell.Tab.0.left" timestamp="1575316456466">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="212" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1575316456466" />
+    <state width="740" height="212" key="GridCell.Tab.0.right" timestamp="1575316456466">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="212" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1575316456466" />
+    <state x="380" y="175" key="IDE.errors.dialog" timestamp="1575316064962">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="175" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1575316064962" />
+    <state x="530" y="191" key="extract.method.dialog" timestamp="1574878286437">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="191" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1574878286437" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1575315930598">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1600.860@0.0.1600.860" timestamp="1575315930598" />
+    <state x="456" y="190" key="run.anything.popup" timestamp="1575315955012">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1575315955012" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1574882497155">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1574882497155" />
+  </component>
+</project>

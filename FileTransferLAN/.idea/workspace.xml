@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d37e2fbf-a751-4293-a1a0-d7fbb960964b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="480" />
+    <option name="y" value="27" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1bB1h2mCYHGRx3esJZWThWaYJS1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588704456415" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.SimpleFileClient">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.vojtechjanovec.Main" />
+      <module name="Soubor po síti" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFileClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vojtechjanovec.SimpleFileClient" />
+      <module name="Soubor po síti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vojtechjanovec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vojtechjanovec.SimpleFileServer" />
+      <module name="Soubor po síti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vojtechjanovec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SimpleFileClient" />
+      <item itemvalue="Application.SimpleFileServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleFileClient" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SimpleFileServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d37e2fbf-a751-4293-a1a0-d7fbb960964b" name="Default Changelist" comment="" />
+      <created>1588090788970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588090788970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588092890325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588092890325" />
+    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588092558560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588092558560" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1588091893018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588091893018" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588096774005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588096774005" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588096774005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588096774005" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588096774004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588096774004" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588096774005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588096774005" />
+    <state width="938" height="348" key="GridCell.Tab.1.bottom" timestamp="1588093213397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588093213397" />
+    <state width="938" height="348" key="GridCell.Tab.1.center" timestamp="1588093213396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588093213396" />
+    <state width="938" height="348" key="GridCell.Tab.1.left" timestamp="1588093213396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588093213396" />
+    <state width="938" height="348" key="GridCell.Tab.1.right" timestamp="1588093213397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588093213397" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1588263130419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588263130419" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
