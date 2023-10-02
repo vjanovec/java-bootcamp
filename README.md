@@ -11,9 +11,9 @@ Most interesting projects
    - Producer Consumer
    - Synchronized ATM
    - Pub - simulation of threads serving requests
-   - 
 - GUI Applications - TicTacToe
 - Intro to SpringBoot
+- Database connection - MySQL
 
 Concepts:
 - Design Patterns
