@@ -2,13 +2,23 @@
 Java Bootcamp Projects - IT STEP ACADEMY
 
 Most interesting projects
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+- LAN Projects
+   - Peer-to-peer file sharing on LAN
+   - BattleShips on LAN
+   - Poker on LAN
+   - Hangman
+- Concurrency Projects
+   - Producer Consumer
+   - Synchronized ATM
+   - Pub - simulation of threads serving requests
+   - 
+- GUI Applications - TicTacToe
+- Intro to SpringBoot
+
+Concepts:
+- Design Patterns
+- Data Structures
+- Interfaces
+- Polymorphism
+- Abstraction
+- Inheritance
