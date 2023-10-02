@@ -1,7 +1,7 @@
 # Java Bootcamp
-Java Bootcamp Projects - IT STEP ACADEMY
+## Java Bootcamp Projects - IT STEP ACADEMY
 
-Most interesting projects
+__Most interesting projects:__
 - LAN Projects
    - Peer-to-peer file sharing on LAN
    - BattleShips on LAN
@@ -15,10 +15,12 @@ Most interesting projects
 - Intro to SpringBoot
 - Database connection - MySQL
 
-Concepts:
+__Concepts:__
 - Design Patterns
 - Data Structures
 - Interfaces
 - Polymorphism
 - Abstraction
 - Inheritance
+
+_Disclaimer: These are my first Java Projects from archive created in 2019. Some projects may not be functional but highlight some important concepts of OOP_
